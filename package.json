@@ -34,6 +34,7 @@
   ],
   "devDependencies": {
     "awesome-typescript-loader": "^5.2.1",
+    "postcss-color-functional-notation": "^6.0.11",
     "source-map-loader": "^0.2.4",
     "typescript": "^3.2.4"
   }
